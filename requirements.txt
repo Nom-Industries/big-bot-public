@@ -1,0 +1,13 @@
+nextcord
+typing
+function-cooldowns
+aiohttp
+asyncio
+requests
+pymysql
+wikipedia-api
+matplotlib
+pillow
+datetime
+quickchart-io
+numpy
