@@ -1,0 +1,8 @@
+__pycache__
+*.pyc
+bot/__pycache__
+cogs/commands/__pycache__
+cogs/listeners/__pycache__
+utils/__pycache__
+views/__pycache__
+.vscode
